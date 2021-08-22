@@ -1,3 +1,4 @@
-*.zip
-./build
-./node_modules
+build.zip
+/build
+/node_modules
+package-lock.json
