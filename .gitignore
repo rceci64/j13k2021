@@ -1,0 +1,7 @@
+build.zip
+/build
+/node_modules
+package-lock.json
+webpack.config.js
+.eslintrc.js
+*.swp
